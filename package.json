@@ -3,10 +3,10 @@
     "name": "AFSTpro",
     "description": "Brunch Skeleton build based on pineapple-in-a-can",
     "version": "2.0.1",
-    "homepage": "https://afst.pro",
+    "homepage": "afst.pro",
     "repository": {
         "type": "git",
-        "url": "http://AFSTpro.github.io"
+        "url": "AFSTpro.github.io"
     },
     "engines": {
         "node": "0.10.x",
