@@ -1,4 +1,4 @@
-# Brunch Banana Bacon Cakes
+# [Brunch Banana Bacon Cakes](http://AFSTpro.github.io/)
 
 ![brunch banana bacon cakes](app/assets/img/browser-window-2.png)
 
@@ -30,17 +30,18 @@ A simple [Brunch](http://brunch.io/) skeleton full of yummy cake!
 * [Uglify-JS-brunch](https://github.com/brunch/uglify-js-brunch)
 * [Clean-CSS-brunch](https://github.com/brunch/clean-css-brunch)
 * [JSHint-brunch](https://github.com/brunch/jshint-brunch)
+* [Imageoptmizer-brunch](https://github.com/steffenmllr/imageoptmizer-brunch)
 
 ## Getting started
 Requires [Brunch](http://brunch.io/) 1.7.x
 
-    $ brunch new git://github.com/AFSTpro/brunch-bacon-cakes.git [optional-output-dir]
+    $ brunch new git://github.com/AFSTpro/brunch-banana-bacon-cakes.git [optional-output-dir]
     $ cd [optional-output-dir]
     $ brunch w -s
 
 or
 
-    $ git clone git://github.com/AFSTpro/brunch-bacon-cakes.git
+    $ git clone git://github.com/AFSTpro/brunch-banana-bacon-cakes.git
     $ npm install
     $ brunch w -s
 
