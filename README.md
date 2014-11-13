@@ -1,12 +1,12 @@
 AFSTpro/AFSTpro.github.io
 # Brunch with banana-bacon-cakes is based on Pineapple in a can
 
-![Pinapple in a Can](app/assets/img/browser-window-2.png)
+![AFSTpro](app/assets/img/browser-window-2.png)
 
 > Furnished!
 
 ## Features
-A simple [Brunch](http://brunch.io/) skeleton chock full of yummy goodness!
+A [Brunch](http://brunch.io/) skeleton full of yummy cake!
 
 ### Languages
 * [JavaScript](http://www.codecademy.com/tracks/javascript)
@@ -34,20 +34,20 @@ A simple [Brunch](http://brunch.io/) skeleton chock full of yummy goodness!
 ## Getting started
 Requires [Brunch](http://brunch.io/) 1.7.x
 
-    $ brunch new git://github.com/timebox-designs/pineapple-in-a-can.git [optional-output-dir]
+    $ brunch new git://github.com/AFSTpro/brunch-banana-bacon-cakes.git [optional-output-dir]
     $ cd [optional-output-dir]
     $ brunch w -s
 
 or
 
-    $ git clone git://github.com/timebox-designs/pineapple-in-a-can.git
+    $ git clone git://github.com/AFSTpro/brunch-banana-bacon-cakes.git
     $ npm install
     $ brunch w -s
 
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2013 timebox-designs
+Copyright (c) 2014 Xzuku
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
