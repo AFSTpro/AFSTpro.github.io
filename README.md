@@ -1,7 +1,7 @@
 AFSTpro/AFSTpro.github.io
 # Brunch with banana-bacon-cakes is based on Pineapple in a can
 
-![AFSTpro](app/assets/img/browser-window-2.png)
+![AFSTpro/AFSTpro.github.io](app/assets/img/browser-window-2.png)
 
 > Furnished!
 
